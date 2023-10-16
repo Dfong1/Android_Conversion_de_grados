@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Conversion de grados</string>
+    <string-array name="opciones_spinner">
+        <item>Celsius</item>
+        <item>Farenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
